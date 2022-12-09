@@ -1,2 +1,28 @@
+img {
+    size-adjust: 5cm;
+}
+=======
+img{size-adjust: 2cm;}
+.clase1 {
+    color: black;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.clase2 {
+    color: royalblue;
+}
+
+.clase3 {
+    color: burlywood;
+}
+
+.clase4 {
+    color: greenyellow;
+}
+
+.clase5 {
+    color: rebeccapurple;
+}
 img{size-adjust: 1cm;}
 body{text-align: center;}
