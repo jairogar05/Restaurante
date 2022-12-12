@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+
+}
+=======
+>>>>>>> cf3e88ddb9222ee1d420935b505b4b193d5f00da
 body {
     background: rgb(248, 179, 179);
 }
@@ -23,6 +28,14 @@ body {
 .clase5 {
     color: rebeccapurple;
 }
+<<<<<<< HEAD
+img{size-adjust: 1cm;}
+body{text-align: center;}
+ul{list-style-type: none}
+dt{
+    
+}
+=======
 
 img.pequeña {
     width: 8cm;
@@ -36,3 +49,4 @@ body {
 ul {
     list-style-type: none
 }
+>>>>>>> cf3e88ddb9222ee1d420935b505b4b193d5f00da
