@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-=======
 body {
     background: rgb(248, 179, 179);
 }
-img {
-    size-adjust: 5cm;
-}
-img{size-adjust: 2cm;}
+
 .clase1 {
     color: black;
     font-family: sans-serif;
@@ -28,6 +23,16 @@ img{size-adjust: 2cm;}
 .clase5 {
     color: rebeccapurple;
 }
-img{size-adjust: 1cm;}
-body{text-align: center;}
-ul{list-style-type: none}
+
+img.pequeña {
+    width: 5cm;
+    height: 5cm;
+}
+
+body {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none
+}
