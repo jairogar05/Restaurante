@@ -1,5 +1,6 @@
 body {
     background: rgb(248, 179, 179);
+    text-align: center;
 }
 
 .clase1 {
@@ -35,10 +36,6 @@ body {
 img.pequeña {
     width: 8cm;
     height: 5cm;
-}
-
-body {
-    text-align: center;
 }
 
 ul {
