@@ -47,6 +47,10 @@ img.bar {
     width: 11cm;
     height: 7cm;
 }
+img.mediana{
+    width:auto ;
+    height:auto;
+}
 
 ul {
     list-style-type: none
