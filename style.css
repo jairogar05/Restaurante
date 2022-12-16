@@ -41,7 +41,7 @@ img.pequeña {
 img.bar {
     width: 11cm;
     height: 7cm;
-    margin: 15px;
+    border: 5cm;
 }
 
 img.mediana {
