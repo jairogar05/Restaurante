@@ -3,10 +3,6 @@ body {
     text-align: center;
 }
 
-p {
-    font-size: medium;
-}
-
 .clase1 {
     color: black;
     font-family: sans-serif;
@@ -45,7 +41,7 @@ img.pequeña {
 img.bar {
     width: 11cm;
     height: 7cm;
-    border-radius: 15px;
+    border-radius: 25px;
 }
 
 img.mediana {
