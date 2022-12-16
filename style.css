@@ -41,7 +41,7 @@ img.pequeña {
 img.bar {
     width: 11cm;
     height: 7cm;
-    border: 15cm;
+    border-radius: 15px;
     border-color: deeppink;
 }
 
