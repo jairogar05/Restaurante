@@ -36,6 +36,7 @@ body {
 img.pequeña {
     width: 8cm;
     height: 5cm;
+    border-radius: 1cm;
 }
 
 img.bar {
